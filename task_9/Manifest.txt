@@ -1,1 +1,0 @@
-Main-Class: by.bsuir.task.Main

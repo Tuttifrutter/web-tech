@@ -1,1 +1,0 @@
-javac .\writer\interfaces\Writer.java .\writer\impl\ConsoleWriter.java .\sports\equipment\interfaces\Colorable.java .\sports\equipment\interfaces\Weightable.java .\sports\equipment\enums\Color.java .\sports\equipment\impl\Ball.java .\sports\equipment\impl\Basket.java .\sports\equipment\utils\BasketUtils.java .\Main.java
